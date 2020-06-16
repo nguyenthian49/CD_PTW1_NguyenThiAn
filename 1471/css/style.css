@@ -1,0 +1,57 @@
+.type-1471 img {
+  display: block;
+  max-width: 100%;
+  margin-right: 20px;
+  height: auto; }
+.type-1471 li {
+  display: flex; }
+.type-1471 h2 {
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  font-size: 28px; }
+  .type-1471 h2:after {
+    width: 55px;
+    height: 3px;
+    background: #a59d9f;
+    content: '';
+    position: absolute;
+    left: 85px;
+    top: 36px; }
+.type-1471 .product-title {
+  padding-bottom: 20px;
+  font-weight: bold; }
+.type-1471 .product-price {
+  padding-bottom: 23px;
+  padding-top: 20px; }
+.type-1471 .product-icon i {
+  margin-top: 15px;
+  color: #bca9a3; }
+.type-1471 .product-button {
+  font-size: 10px;
+  padding: 7px 10px 6px 10px;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 0;
+  width: 115px;
+  border: 1px solid;
+  margin-top: 20px; }
+  .type-1471 .product-button:hover {
+    background-color: #000;
+    color: #fff; }
+.type-1471 .product-percent {
+  position: relative; }
+  .type-1471 .product-percent::before {
+    content: "%";
+    font-size: 20px;
+    position: absolute;
+    background: #bca9a3;
+    color: #fff;
+    padding: 5px;
+    border-radius: 50%;
+    top: 5px;
+    left: 5px; }
+.type-1471 del.price.amount {
+  color: #aaa; }
+.type-1471 .content {
+  padding-bottom: 34px;
+  padding-top: 12px; }

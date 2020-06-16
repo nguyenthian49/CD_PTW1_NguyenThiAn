@@ -1,0 +1,39 @@
+$text-transform: uppercase;
+$font-weight: bold;
+$width: 100%;
+
+
+.type-1500{
+    font-weight: $font-weight;
+    text-transform: $text-transform;
+    padding-bottom: 50px;
+    .col-md-6{
+        padding-top: 20px;
+    }
+    input{
+        width: $width;
+        padding: 10px;
+        margin: 5px 0 30px;
+    }
+    select{
+        padding: 10px;
+        width: $width;
+        margin: 5px 0 30px;
+    }
+    .textaria{
+        width: auto;
+        margin: 0;
+        box-sizing: border-box;
+        outline: 0 none;
+        overflow: auto;
+    }
+    .blos{
+        display: flex;
+    }
+    .aaa{
+        width: auto;
+    }
+    .folly{
+        width: 100%;
+    }
+}
