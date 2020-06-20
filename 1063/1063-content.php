@@ -11,7 +11,6 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-
 <div class="type-1063">
     <div class="container">
         <div class="row">
@@ -40,15 +39,15 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Fashion news</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>May 6, 2020</a></div>
                             <div class="product-document">
                                 <span>
-                                    <p>Vestibulum venenatis est tortor, et ultricies ex viverra et. Praesent non
-                                        venenatis erat.</p>
+                                    Vestibulum venenatis est tortor, et ultricies ex viverra et. Praesent non
+                                    venenatis erat.
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -61,16 +60,16 @@ $url_path = str_replace('\\', '/', $url_path);
                                 <h5>Lux loungwear</h5>
                             </div>
                             <div class="meta">
-                                <a>Fashion trends</a></i>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <a>Fashion trends</a>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>April 30, 2020</a></div>
                             <div class="product-document">
                                 <span>
-                                    <p>Non neque ut ipsum aliquet tristique. Morbi in magna sapien. Etiam augue
-                                        mauris!</p>
+                                    Non neque ut ipsum aliquet tristique. Morbi in magna sapien. Etiam augue
+                                    mauris!
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -84,15 +83,15 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Fashion news</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>February 7, 2020</a></div>
                             <div class="product-document">
                                 <span>
-                                    <p>Fusce sed maximus est, et viverra mauris. Phasellus a aubit elit. Praesent
-                                        varius sem id…</p>
+                                    Fusce sed maximus est, et viverra mauris. Phasellus a aubit elit. Praesent
+                                    varius sem id…
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -106,7 +105,7 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Events</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>February 6, 2020</a></div>
                             <div class="product-document">
                                 <span>
@@ -114,7 +113,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     consectetur.
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -128,13 +127,14 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Fashion news</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>January 1, 2020</a></div>
                             <div class="product-document">
-                                <span>Quisque sed ipsum vestibulum turpis consectetur iaculis. Donec ornare imperdiet
+                                <span>
+                                    Quisque sed ipsum vestibulum turpis consectetur iaculis. Donec ornare imperdiet
                                     sem. </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -148,7 +148,7 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Events</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>January 1, 2020</a></div>
                             <div class="product-document">
                                 <span>
@@ -156,7 +156,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     neque.
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="swiper-slide">
@@ -170,7 +170,7 @@ $url_path = str_replace('\\', '/', $url_path);
                             </div>
                             <div class="meta">
                                 <a>Events</a>
-                                <i class="fa fa-circle" aria-hidden="true" id="ae"></i>
+                                <i class="fa fa-circle" aria-hidden="true"></i>
                                 <a>January 1, 2020</a></div>
                             <div class="product-document">
                                 <span>
@@ -178,16 +178,16 @@ $url_path = str_replace('\\', '/', $url_path);
                                     in…
                                 </span>
                             </div>
-                            <a class=" btn ">Read &amp; shop <i class="fa fa-play" aria-hidden="true"></i></a>
+                            <a class=" btn ">Read & shop <i class="fa fa-play" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
 <script>
+    
 var swiper = new Swiper('.swiper-container', {
     spaceBetween: 50,
     slidesPerView: 6,
@@ -213,6 +213,6 @@ var swiper = new Swiper('.swiper-container', {
             slidesPerView: 4,
             spaceBetween: 40
         },
-    }
+    },
 });
 </script>

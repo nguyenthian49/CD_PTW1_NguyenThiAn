@@ -16,25 +16,25 @@ file_put_contents("css/1063.css",$style);
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
     <title>1063</title>
+    <link rel="stylesheet" href="<?php echo $url_path ?>/css/1063.css">
     <link href="./css/swiper.min.css" rel="stylesheet" type="text/css" />
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/bootstrap-theme.min.css">
-    <script src="./js/jquery-2.1.4.min.js"></script>
-    <script src="js/1063.js" type="text/javascript"></script>
-    <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/swiper.min.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="<?php echo $url_path ?>/css/1063.css">
+    
+    <script type="text/javascript" src="<?php echo $url_path ?>./js/1063.js"></script>
+    <script type="text/javascript" src="<?php echo $url_path ?>./js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="<?php echo $url_path ?>./js/bootstrap.min.js"></script>
+    <script src="<?php echo $url_path ?>./js/swiper.min.js" type="text/javascript"></script>
+   
 </head>
-
 <body>
     <?php include './1063-content.php'; ?>
 </body>
-
 </html>
+

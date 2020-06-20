@@ -11,6 +11,8 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
+<!DOCTYPE html>
+<html lang="en">
 
 <div class="type-1398">
     <div class="contaner-fluid">
@@ -127,6 +129,7 @@ $url_path = str_replace('\\', '/', $url_path);
     </div>
 </div>
 
+</html>
 <script>
 var galleryThumbs = new Swiper('.gallery-thumbs', {
     spaceBetween: 10,
