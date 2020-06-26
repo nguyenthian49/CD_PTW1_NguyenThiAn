@@ -114,10 +114,6 @@ $border-navar: #ececec;
 				.hv-text:hover {
 					color: $color-border;
 				}
-				// .hv-icon {
-				// 	margin-right: 5px;
-				
-				// }
 				label {
 					font-size: 14px;
 					text-transform: uppercase;
@@ -147,13 +143,11 @@ $border-navar: #ececec;
 		font-weight: bold;
 		background: $color-icon;
 	}
-	
 	.dropdown {
 		position: relative;
 		display: inline-block;
 		
 	}
-	
 	.dropdown-content {
 		display: none;
 		position: absolute;
@@ -180,9 +174,6 @@ $border-navar: #ececec;
 	}
 	
 }
-// input[type="text"] {
-//     width: 83px;
-// }
 .demo1{
 
  background: #bbbdbc;

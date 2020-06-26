@@ -93,8 +93,8 @@ $url_path = str_replace('\\', '/', $url_path);
                             <a class="navbar-brand hv-text" href="#">BLOG</a><i class="fa fa-circle-thin"></i>
                             <a class="navbar-brand hv-text" href="#">CONTACT</a>
 
-                            <a class="navbar-brand hv-icon" href="#">
-                                <form class="example" action="/action_page.php">
+                            <a class="navbar-brand hv-icon" href="">
+                                <form class="example">
                                     <input type="text" placeholder="Search...">
                                     <button type="submit" class="search-icon"><i class="fa fa-search"
                                             aria-hidden="true"></i></button>
