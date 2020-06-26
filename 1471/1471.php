@@ -28,12 +28,14 @@ file_put_contents("css/style.css",$style);
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/reset.css">
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/style.css">
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/font-awesome.min.css">
+	
+	<script src="js/bootstrap.min.js"></script>
+<script src="js/1471.js"></script>
 </head>
 
 <body>
     <?php include './1471-content.php'; ?>
 </body>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/1471.js"></script>
+
 
 </html>
