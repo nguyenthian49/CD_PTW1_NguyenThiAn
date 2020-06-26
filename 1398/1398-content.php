@@ -23,10 +23,10 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="testcoin">
                             <div class="title">
                                 <h4>
-                                    Trendy colors &amp; glossy textures
+                                    Trendy colors & glossy textures
                                 </h4>
                                 <h2>
-                                    New stylish bags &amp; accessories!
+                                    New stylish bags & accessories!
                                 </h2>
                                 <button class="shopnew">SHOP NEW COLLECTION</button>
                             </div>
@@ -38,10 +38,10 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="testcoin">
                             <div class="title">
                                 <h4>
-                                    Classic &amp; elegant shoes
+                                    Classic & elegant shoes
                                 </h4>
                                 <h2>
-                                    Natural leather &amp; suede shoes
+                                    Natural leather & suede shoes
                                 </h2>
 
                                 <button class="shopnew">SHOP NEW COLLECTION</button>
@@ -73,7 +73,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                     Check out our limited S/S 2020 collection!
                                 </h4>
                                 <h2>
-                                    Light skirts &amp; summer dresses
+                                    Light skirts & summer dresses
                                 </h2>
                                 <button class="shopnew">SHOP NEW COLLECTION</button>
                             </div>
@@ -88,7 +88,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     <span class="thums">
                         <span class="thums-img" style="background-image:url(./images/1.jpg)">
                         </span>
-                        <span class="thums-title">Stylish bags &amp; accessories</span>
+                        <span class="thums-title">Stylish bags & accessories</span>
                         <span class="thums-more">
                             <i class="fa fa-chevron-right" aria-hidden="true"></i>
                         </span>
@@ -98,7 +98,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     <span class="thums">
                         <span class="thums-img" style="background-image:url(./images/2.jpg)">
                         </span>
-                        <span class="thums-title">Classic &amp; elegant shoes</span>
+                        <span class="thums-title">Classic & elegant shoes</span>
                         <span class="thums-more">
                             <i class="fa fa-chevron-right" aria-hidden="true"></i>
                         </span>
@@ -118,7 +118,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     <span class="thums">
                         <span class="thums-img" style="background-image:url(./images/4.jpg)">
                         </span>
-                        <span class="thums-title">Light summer skirts &amp; dresses</span>
+                        <span class="thums-title">Light summer skirts & dresses</span>
                         <span class="thums-more">
                             <i class="fa fa-chevron-right" aria-hidden="true"></i>
                         </span>

@@ -186,8 +186,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </div>
     </div>
 </div>
-<script>
-    
+<script>    
 var swiper = new Swiper('.swiper-container', {
     spaceBetween: 50,
     slidesPerView: 6,

@@ -22,15 +22,14 @@ file_put_contents("css/1063.css",$style);
     <meta name="viewport" content="width=device-width">
     <title>1063</title>
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/1063.css">
-    <link href="./css/swiper.min.css" rel="stylesheet" type="text/css" />
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/bootstrap-theme.min.css">
-    
-    <script type="text/javascript" src="<?php echo $url_path ?>./js/1063.js"></script>
-    <script type="text/javascript" src="<?php echo $url_path ?>./js/jquery-2.1.4.min.js"></script>
-    <script type="text/javascript" src="<?php echo $url_path ?>./js/bootstrap.min.js"></script>
-    <script src="<?php echo $url_path ?>./js/swiper.min.js" type="text/javascript"></script>
+    <link href="<?php echo $url_path ?>/css/swiper.min.css" rel="stylesheet" type="text/css" />
+    <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="<?php echo $url_path ?>/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $url_path ?>/css/bootstrap-theme.min.css">
+
+    <script type="text/javascript" src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
+    <script src="<?php echo $url_path ?>/js/swiper.min.js" type="text/javascript"></script>
    
 </head>
 <body>

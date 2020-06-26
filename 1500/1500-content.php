@@ -17,7 +17,7 @@ $url_path = str_replace('\\', '/', $url_path);
         <div class="row">
             <div class="col-md-6">
                 <label for="fname" class="folly">
-                    Firts name&nbsp;<abbr class="required" title="required">*</abbr><br>
+                    Firts name <abbr class="required" title="required">*</abbr><br>
                     <span class="title">
                         <input type="text" id="fname" name="fname"><br>
                     </span>
@@ -25,7 +25,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <div class="col-md-6">
                 <label for="lname" class="folly">
-                    Last name&nbsp;<abbr class="required" title="required">*</abbr><br>
+                    Last name<abbr class="required" title="required">*</abbr><br>
                     <span class="title">
                         <input type="text" id="lname" name="lname"><br><br>
                     </span>
@@ -78,7 +78,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 <div class="row">
                     <div class="col-md-6">
                         <label for="tname" class="folly">
-                            Firts name&nbsp;<abbr class="required" title="required">*</abbr><br>
+                            Firts name<abbr class="required" title="required">*</abbr><br>
                             <span class="title">
                                 <input type="text" id="tname" name="tname"><br>
                             </span>
@@ -86,7 +86,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                     <div class="col-md-6">
                         <label for="hname" class="folly">
-                            Last name&nbsp;<abbr class="required" title="required">*</abbr><br>
+                            Last name<abbr class="required" title="required">*</abbr><br>
                             <span class="title">
                                 <input type="text" id="hname" name="hname"><br><br>
                             </span>
@@ -135,17 +135,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         style="margin: 0px; width: 800px; height: 92px;"></textarea>
                 </form>
             </div>
+
         </div>
     </div>
 </div>
-<script>
-function myFunction() {
-    var checkBox = document.getElementById("myCheck");
-    var text = document.getElementById("text");
-    if (checkBox.checked == true) {
-        text.style.display ="block";
-    } else {
-        text.style.display ="none";
-    }
-}
-</script>

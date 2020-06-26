@@ -27,8 +27,8 @@ file_put_contents("css/1398.css",$style);
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="<?php echo $url_path ?>/css/1398.css">
+
     <script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js"></script>
-  
     <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
     <script src="<?php echo $url_path ?>/js/swiper.min.js" type="text/javascript"></script>
     
