@@ -204,8 +204,8 @@ var swiper = new Swiper('.swiper-container', {
         },
         // when window width is >= 480px
         720: {
-            slidesPerView: 4,
-            spaceBetween: 30
+            slidesPerView: 3,
+            spaceBetween: 20
         },
         // when window width is >= 640px
         1040: {
